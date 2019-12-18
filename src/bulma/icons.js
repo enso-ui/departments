@@ -2,6 +2,6 @@ import '@measurement-units/icons';
 
 import { library } from '@fortawesome/fontawesome-svg-core';
 
-import { faProjectDiagram } from '@fortawesome/free-solid-svg-icons';
+import { faNetworkWired } from '@fortawesome/free-solid-svg-icons';
 
-library.add(faProjectDiagram);
+library.add(faNetworkWired);
