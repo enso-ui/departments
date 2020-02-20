@@ -1,6 +1,6 @@
 {
   "name": "@enso-ui/departments",
-  "version": "0.9.4",
+  "version": "1.0.0",
   "description": "Basic Departments package",
   "main": "src/bulma/pages/departments/Index.vue",
   "scripts": {
