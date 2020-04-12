@@ -26,6 +26,7 @@
     "@enso-ui/tables": "1.4.x",
     "@fortawesome/fontawesome-svg-core": "^1.2.2",
     "@fortawesome/free-solid-svg-icons": "^5.2.0",
+    "@fortawesome/pro-solid-svg-icons": "^5.2.0",
     "vue": "^2.5.16"
   },
   "devDependencies": {
